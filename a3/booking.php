@@ -39,10 +39,10 @@
 		</td>
 		<td colspan = "2">
 			<select id = "movie" name="movie" onload = "autoFillMovie()" onchange = "enableValidDays(this.value)" >
-			<option value="AC">FANTASTIC FOUR</option>
-			<option value="CH">BLINKY BILL THE MOVIE</option>
-			<option value="AF">THE LOVE AFFAIR</option>
-			<option value="RC">TRAINWRECK</option>
+			<option value="AC">Mission Impossible: Rogue Nation</option>
+			<option value="CH">Inside Out</option>
+			<option value="AF">Girlhood</option>
+			<option value="RC">Train Wreck</option>
 			<option selected disabled hidden value=''></option>
 			</select>
 		</td>

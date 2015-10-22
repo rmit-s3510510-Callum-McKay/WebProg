@@ -64,37 +64,13 @@ a { color: #a0a0a0; text-decoration: underline; }
 #content .articles h4 a { text-decoration: none; color: #18B1ED; }
 #content .articles h4 a:hover { color: #fff; }
 
-#movies .films .film { width:40%; float: left; font-size: 14px; color: #a0a0a0; display: i;  padding: 30px; }
+#movies .films .film { width:40%; float: left; font-size: 14px; color: #a0a0a0; display: i;  padding: 30px;   }
 #movies .films .film .image { float: left; display: inline; width: 45%; }
 #movies .films .film .image img { width: 100%; }
-#movies .films .film .content { float: right; display: inline; width: 50%;}
+#movies .films .film .content { float: right; display: inline; width: 50%; }
 #movies .films h4 { margin-top: 0; line-height: 20px; font-size: 19px; font-weight: bold; color: #18B1ED; margin: 4px 0 2px;}
 #movies .films h4 a { text-decoration: none; color: #18B1ED; }
 #movies .films h4 a:hover { color: #fff; }
-
-
-
-#hideContent {
-    overflow: hidden;
-    line-height: 1em;
-    height: 2em;
-}
-
-#showContent {
-    line-height: 1em;
-    height: auto;
-}
-
-
-
-
-
-
-
-
-
-
-
 
 
 #footer .content { float: right; display: inline; width: 500px; line-height: 40px; text-align:right; padding-right: 20px; }

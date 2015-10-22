@@ -2,6 +2,12 @@
 <!doctype html>
 <html>
 <head>
+<style>
+.h4 {
+   background-color:#018EC3;
+   color:#FFFFFF;
+}
+</style>
 <title>Cart</title>
   <?php include "includes/StyleRef.php"; ?>  
 </head>
@@ -294,7 +300,8 @@ Voucher code: <input type='text' name='voucherCode' pattern='\d{5}-\d{5}-[A-Z]{2
 ?>
 
 <br>
-<a href="getDetails.php">CONTINUE</a>
+<button type="button"><a href="getDetails.php"><h4>CONTINUE</h4></a></button>
+
 
 
 
